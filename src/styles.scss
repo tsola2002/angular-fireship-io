@@ -20,7 +20,7 @@ $fireship-io-warn: mat-palette($mat-red);
 
 // Create the theme object. A theme consists of configurations for individual
 // theming systems such as "color" or "typography".
-$fireship-io-theme: mat-light-theme((
+$fireship-io-theme: mat-dark-theme((
   color: (
     primary: $fireship-io-primary,
     accent: $fireship-io-accent,
