@@ -121,8 +121,13 @@
               "devServerTarget": "fireship-io:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
-    }},
+    }
+  },
   "defaultProject": "fireship-io"
 }

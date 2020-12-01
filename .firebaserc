@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fireship-io-29b00": {
+      "hosting": {
+        "fireship-io": [
+          "fireship-io-29b00"
+        ]
+      }
+    }
+  }
+}
