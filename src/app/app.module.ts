@@ -27,6 +27,8 @@ import { AngularFireAuthModule } from '@angular/fire/auth';
     SharedModule,
     // we call initialize app with the credentials setup in environment file
     AngularFireModule.initializeApp(environment.firebase),
+    AngularFireAuthModule,
+    
   ],
   providers: [],
   bootstrap: [AppComponent]
